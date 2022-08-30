@@ -1,0 +1,19 @@
+.work-header {
+      color: #3BA6B7;
+      font-size: 38px;
+      font-weight: 900 !important;
+}
+
+.pics {
+      width: 100%;
+      /* height: 100%; */
+      
+}
+
+.pics:hover {
+      cursor: pointer;
+      transition: 300ms all ease;
+      box-shadow: 12px 5px 15px 1px rgba(0, 0, 0, 0.3);
+      -webkit-box-shadow: 12px 5px 15px 1px rgba(0, 0, 0, 0.3);
+      -moz-box-shadow: 12px 5px 15px 1px rgba(0, 0, 0, 0.3);
+}
